@@ -1,10 +1,16 @@
 ---chmod +x deploy.sh---
 
-name: Feature request
+name: REME.
 about: Let us know how we can make things better.
-title: ''
+title: ''ext install CodeRabbit.coderabbit-vscode
 labels: 'priority: p3, triage me, type: feature request'
-assignees: ''
+assignees: ''gh copilot explain"));
+
+##Doker compuse copilot enterprise-level/Work IQ La capa de "memoria" que permite a Copilot recordar preferencias, historial de chats y contexto de reuniones pasadas.
+Copilot Frontier El panel de configuración en el Centro de Administración donde se activan las funciones experimentales y de vanguardia.
+EDP (Enterprise Data Protection) El protocolo de seguridad (simbolizado por un escudo verde) que garantiza que los datos no salgan del entorno de la organización.
+Multi-Agent Architecture El sistema que permite que un "agente" (ej. un Analista) llame automáticamente a otro (ej. un Investigador) para completar tareas complejas.
+Grounding (Anclaje) El proceso oculto mediante el cual Copilot consulta el Microsoft Graph antes de responder para evitar alucinaciones.pasamw los 
 
 ---ext install CodeRabbit.coderabbit-vscode---
 
@@ -30,9 +36,7 @@ Please include as much information as possible:
 
 Making sure to follow these steps will guarantee the quickest resolution possible.
 
-Thanks!));
-
-*(exten install CodeRabbit.coderabbit-vscode));#!/bin/bash
+Thanks!
 
 # =================================================================
 # 🛰️ SENTINEL OMEGA: DESPLIEGUE ATÓMICO + CODERABBIT (V.2026.33)
