@@ -1,11 +1,12 @@
----
+---chmod +x deploy.sh---
+
 name: Feature request
 about: Let us know how we can make things better.
 title: ''
 labels: 'priority: p3, triage me, type: feature request'
 assignees: ''
 
----
+---ext install CodeRabbit.coderabbit-vscode---
 
 Thanks for stopping by to let us know something could be better!ext install CodeRabbit.coderabbit-vscode
 
@@ -217,3 +218,4 @@ echo -e "\n✅ ¡SISTEMA SENTINEL OMEGA EN LÍNEA!"
 echo "🐰 Extensión CodeRabbit instalada en VS Code."
 echo "-------------------------------------------------------"
 docker logs sentinel_omega_container
+./deploy.sh
